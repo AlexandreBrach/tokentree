@@ -1,0 +1,7 @@
+file
+
+/vendor/
+*.swp
+node_modules/
+*~
+*.sql

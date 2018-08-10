@@ -1,0 +1,21 @@
+{
+    "name": "alexandrebrach/tokentree",
+    "description": "Tool to parse file. It provide results in a \"tree of token\" manner",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alexandre BRACH",
+            "email": "alexandre.brach@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Tokentree": "src/",
+            "TokentreeTest": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
